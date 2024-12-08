@@ -1,27 +1,19 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const thai = {
-  pronouns: "He" | "him",
-  langs: [Javascript, Typescript, HTML, CSS],
-  tools: [
-    React,
-    Redux,
-    Node,
-    Next,
-    Tailwind,
-    Storybook,
-    Styled - Components,
-    Jest,
-    Docker,
-  ],
-  architecture: ["Microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-    coorganizer: "AfroPython",
-    speaker: "Latinity",
-    mentor: "EducaTRANSforma",
+const response = {
+  status: 200,
+  data: {
+    fullName: "Parsa Farjad",
+    birthDay: "2002 October 17",
+    languages: ["Javascript" , "Typescript" , "HTML" , "CSS"],
+    skills: [
+      "React", "Redux", "Next", "ThreeJs", "WebSocket", "GraphQL", "PWA", "ESlint", "RegEx",
+      "Tailwind", "Bootstrap", "MUI", "Styled-Components",
+      "Figma", "Xd", "Photoshop", "Illustrator", "Premiere", "AfterEffects", 
+      "Git" , "Github" , "Gitlab"
+    ],
+    university: "Computer Engineering Azad University, Karaj Branch",
   },
-  challenge:
-    "I am doing the #100DaysOfCode challenge focused on react and typescript",
 };
 ```

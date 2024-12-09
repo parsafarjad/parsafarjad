@@ -1,4 +1,6 @@
-### <img src="Animation - 1731460455587.gif" width="50"> A little more about me...
+
+
+### <img src="Animation - 1731460455587.gif" width="50" align="center"> A little more about me...
 
 ```javascript
 const response = {
@@ -17,3 +19,6 @@ const response = {
   },
 };
 ```
+<br/>
+<hr/>
+<h3><img src="">Connect Me...</h3>

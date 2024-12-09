@@ -1,4 +1,4 @@
-<img src="My Video.gif" align="center">
+<p align="center"><img src="My Video.gif" height="350px"></p>
 
 ### <img src="Animation - 1731460455587.gif" width="50px" align="center"> A little more about me...
 
